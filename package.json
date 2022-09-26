@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-jd",
+  "version": "1.0.0",
+  "description": "random string msg by jocad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jocad7/random-str-msg-jd.git"
+  },
+  "keywords": [],
+  "author": "Jd Castillo <ochlillen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jocad7/random-str-msg-jd/issues"
+  },
+  "homepage": "https://github.com/Jocad7/random-str-msg-jd#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+}
+}
